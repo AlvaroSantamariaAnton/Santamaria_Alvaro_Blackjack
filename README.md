@@ -26,3 +26,5 @@ El código está organizado en funciones, cada una con un propósito específico
 7. El jugador decide si desea jugar otra vez.
 ## Ejecución del programa
 Ejecuta el script en tu entorno de Python para comenzar a jugar al Blackjack. Sigue las instrucciones en la consola y disfruta del juego.
+## Link al repositorio
+https://github.com/AlvaroSantamariaAnton/Santamaria_Alvaro_Blackjack.git
